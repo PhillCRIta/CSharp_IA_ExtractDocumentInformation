@@ -12,3 +12,7 @@ Every examples are maden with Azure studio, below the list of the portals:
 
 ## Extract info from receipt
 This example shows the capability of Azure Document to extract data from a receipt. Nothing coordinate has been inserted for specify the position of source's data. All position of data has been managed from AI models that return the exact type of data and its meaning (for example company's name, total, each receipt's items)
+
+Video, below
+
+![ExtractDocumentInformation](https://github.com/user-attachments/assets/d18aed7f-2e03-4809-ad75-f64ac326f49c)
