@@ -1,0 +1,16 @@
+﻿Esercente: AMERICAN COFFEE COMPANY S.R.L.
+Data scontrino: 21-11-13
+Totale: EURO 6,50
+
+
+Elenco articoli: 
+
+Caffe' Americ.			2,2
+Ciocc Gianduia			3,8
+Panna Montata			0,5
+
+
+
+
+
+
